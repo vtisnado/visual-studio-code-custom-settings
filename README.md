@@ -2,6 +2,10 @@
 
 Custom settings for Visual Studio Code using the popular **Monokai** theme based in the **Monokai Seti** for Atom.
 
+
+![alt text](https://github.com/vtisnado/visual-studio-code-custom-settings/blob/master/visual-studio-code-custom-monokai.png)
+
+
 ___
 
 First of all make sure you have installed the Monokai Theme, then open the settings.json file in **Code > Preferences > Settings** and look for the **workbench.colorCustomizations** and copy that to the **USER SETTINGS**.
