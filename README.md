@@ -82,5 +82,20 @@ You will end with something like this:
 }
 ```
 
+One last thing...
+
+Some extensions force the tab indetation to 2 spaces, that's the case of the **Dart extension**, but we can fix it adding the following snippet before the last bracket:
+
+```javascript
+"[dart]": {
+	"editor.tabSize": 4,
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false
+}
+```
+
+
 That's all. **Happy coding!**
+
+
 
